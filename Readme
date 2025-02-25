@@ -1,1 +1,12 @@
+Description:
+In this project, I extracted industrial production index data from TurkStat (TÜİK - Türkiye İstatistik Kurumu), applied preprocessing techniques, and conducted Exploratory Data Analysis (EDA).
 
+I leveraged storytelling techniques from Analyst Academy to enhance data visualization and interpretation. 
+The analysis focuses on understanding trends, seasonal variations, and economic impacts on Turkey’s industrial production from 1986 to 2024.
+
+📌 Key Steps:
+- Data extraction and preprocessing
+- Trend and seasonality analysis
+- Outlier detection and impact assessment
+- Comparing calendar-adjusted vs unadjusted indexes
+- Visualizations using Matplotlib, Seaborn, Pandas, and NumPy 
